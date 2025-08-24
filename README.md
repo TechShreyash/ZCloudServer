@@ -1,2 +1,3 @@
-# ZCloudServer
-ZCloudServer is the backend API for ZCloud - Under Construction
+# ZCloudServer – Under Construction
+
+A powerful, feature-rich backend for every file hosting need—streaming, preview generation, large uploads, and more.
